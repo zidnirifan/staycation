@@ -37,21 +37,21 @@
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Vinna vill",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-4.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Malang",
       "price": "80",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Bobox",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-5.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Medan",
       "price": "80",
       "unit": "night"
     }
